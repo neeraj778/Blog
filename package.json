@@ -1,0 +1,27 @@
+{
+  "name": "blog_backend",
+  "version": "1.0.0",
+  "description": "We will be developing APIs here",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neeraj778/Blog.git"
+  },
+  "keywords": [
+    "blog",
+    "express",
+    "react"
+  ],
+  "author": "Neeraj Garg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neeraj778/Blog/issues"
+  },
+  "homepage": "https://github.com/neeraj778/Blog#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
